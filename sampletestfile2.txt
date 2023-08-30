@@ -1,1 +1,1 @@
-this is commit 2 to sample file 2 to check the rever this is sample file 2
+this is sample file 2
